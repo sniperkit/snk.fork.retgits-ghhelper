@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 // Package main implements a githelper command to create a GitHub and/or Gogs
 // repository and optionally a Jenkins job as well.
 // Available flags:
